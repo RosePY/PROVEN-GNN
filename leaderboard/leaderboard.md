@@ -1,3 +1,4 @@
 # Leaderboard
 | Rank | Team | Model | Type | Macro-F1 | Date (UTC) |
 |------|------|-------|------|----------|------------|
+| 1 | Muhammad Isah | `GAT` | human | 0.839366 | 2026-03-05 11:32:20 UTC |
